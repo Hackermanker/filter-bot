@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Source code", url="https://github.com/Hackermanker/filter-bot/blob/main/README.md"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/Hackermanker/filter-bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
