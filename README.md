@@ -21,7 +21,7 @@
 
 [![TroJanz](https://img.shields.io/badge/AstraUpdates-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/botupdatesastra)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/AstraBot-Support-red?style=flat&logo=telegram)](https://telegram.dog/botsupportastra)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/AstraBot-Support-red?style=flat&logo=telegram)](https://telegram.dog/botsupportastra)  [![TroJanz](https://img.shields.io/badge/Owner-Website-red?style=flat&logo=CodersRank)](https://t.me/Oriksonic)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/Hackermanker/filter-bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hackermanker/filter-bot)
 
