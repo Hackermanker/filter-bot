@@ -8,13 +8,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/Hackermanker/filter-bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Hackermanker/Filter-bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/Hackermanker/Filter-bot/fork">
+    <img src="https://img.shields.io/github/forks/Hackermanker/Filter-bot?label=Fork&style=social">
 
   </a>  
 </p>
