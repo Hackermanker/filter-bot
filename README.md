@@ -76,16 +76,13 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [Erich Daniken](https://telegram.dog/ErichDaniken) 
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [BOT SUPPORT ASTRA](https://telegram.dog/botupdatesastra)
 
 
 ## Installation
-
-### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
